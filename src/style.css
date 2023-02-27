@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Orbitron&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100&display=swap');
+
+@font-face {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: normal;
+    font-weight: thin;
+    font-display: swap;
+    src: url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100&display=swap');
+}
+
+
+@font-face {
+    font-family: 'Orbitron', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+}
+
+@font-face {
+    font-family: 'Noto Sans', 'sans-serif';
+    font-style: normal;
+    font-weight: 400, 700;
+    font-display: swap;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400;700&display=swap');
+}
+
+@font-face {
+    font-family: 'Poiret One', 'cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+}
+
+@font-face {
+    font-family: "Roboto", "sans-serif";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+}
+@font-face {
+    font-family: "Roboto", "sans-serif";
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+}
+@font-face {
+    font-family: "Roboto", "sans-serif";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.this> div {
+    transition-duration: .5s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/*Template 10*/
+.wrap {
+    perspective: 1300px;
+    perspective-origin:  center;
+}
+.face1 {
+    transform: rotateY(0deg) translateZ(-764px);
+}
+.face2 {
+    transform: rotateY(45deg) translateZ(-764px);
+}
+.face3 {
+    transform: rotateY(90deg) translateZ(-764px);
+}
+.face4 {
+    transform: rotateY(135deg) translateZ(-764px);
+}
+.face5 {
+    transform: rotateY(180deg) translateZ(-764px);
+}
+.face6 {
+    transform: rotateY(225deg) translateZ(-764px);
+}
+.face7 {
+    transform: rotateY(270deg) translateZ(-764px);
+}
+.face8 {
+    transform: rotateY(315deg) translateZ(-764px);
+}
+
+.transit {
+    transition: flex 1s, opacity 1s;
+}
+
+/*Template 12*/
+.pic::before, .pic::after{
+    content: "";
+    display: block;
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: inherit;
+    background-position: center;
+    background-size: cover;
+    background-repeat: inherit;
+    transform-origin: center center;
+}
+
+.pic::before{
+    transform: translateY(10%);
+    filter: blur(20px) brightness(1.6);
+}
+
+.on {
+    opacity: 100;
+    
+}
+
+/*Home*/
+/* Swiper class */
+
+/*CUSTOM*/
+
