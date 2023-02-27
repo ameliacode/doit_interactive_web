@@ -1,8 +1,16 @@
 ## 📓 Do it! 인터랙티브 웹 페이지 만들기
 
 <p align="center">
-    <img src="imgs/monitor.png">
-    <a href="https://ameliacode.github.io/doit_web_publish">View Demo</a>
+    <img src="public/img/home/1.gif" height="180px">
+    <img src="public/img/home/2.gif" height="180px">
+    <img src="public/img/home/3.gif" height="180px">
+    <img src="public/img/home/4.gif" height="250px">
+    <img src="public/img/home/5.JPG" height="250px">
+    <img src="public/img/home/6.gif" height="217px">
+    <img src="public/img/home/7.JPG" height="217px">
+</p>
+<p align="center">
+ <a href="https://ameliacode.github.io/doit_interactive_web">View Demo</a>
 </p>
 
 ---
