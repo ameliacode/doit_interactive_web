@@ -1,0 +1,15 @@
+{
+  "short_name": "DCODELAB",
+  "name": "Do it! 인터랙티브 웹 페이지 만들기",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

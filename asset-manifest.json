@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/doit_interactive_web/static/css/main.2fbbbf94.css",
+    "main.js": "/doit_interactive_web/static/js/main.4cab700a.js",
+    "static/media/member4.jpg": "/doit_interactive_web/static/media/member4.41838036d6d0664a73d3.jpg",
+    "static/media/robot.png": "/doit_interactive_web/static/media/robot.d5d029af1758e376e65f.png",
+    "static/media/member1.jpg": "/doit_interactive_web/static/media/member1.b10bb136ec91258b7566.jpg",
+    "static/media/member2.jpg": "/doit_interactive_web/static/media/member2.4d2834dd248418bdbc13.jpg",
+    "static/media/member8.jpg": "/doit_interactive_web/static/media/member8.052bf98c799d16db25b8.jpg",
+    "static/media/member3.jpg": "/doit_interactive_web/static/media/member3.aaf67dc012b22a863cda.jpg",
+    "static/media/member5.jpg": "/doit_interactive_web/static/media/member5.d1491726c21c1ee0ebf9.jpg",
+    "static/media/member6.jpg": "/doit_interactive_web/static/media/member6.9c863e9adbe582a2cf88.jpg",
+    "static/media/member7.jpg": "/doit_interactive_web/static/media/member7.6177f8aa2361212b55a6.jpg",
+    "index.html": "/doit_interactive_web/index.html",
+    "main.2fbbbf94.css.map": "/doit_interactive_web/static/css/main.2fbbbf94.css.map",
+    "main.4cab700a.js.map": "/doit_interactive_web/static/js/main.4cab700a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fbbbf94.css",
+    "static/js/main.4cab700a.js"
+  ]
+}
