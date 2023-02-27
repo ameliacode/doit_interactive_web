@@ -4,8 +4,8 @@
     <img src="public/img/home/1.gif" height="150px">
     <img src="public/img/home/2.gif" height="150px">
     <img src="public/img/home/3.gif" height="150px">
-    <img src="public/img/home/4.gif" height="205px">
-    <img src="public/img/home/5.JPG" height="205px">
+    <img src="public/img/home/4.gif" height="210px">
+    <img src="public/img/home/5.JPG" height="210px">
     <img src="public/img/home/6.gif" height="180px">
     <img src="public/img/home/7.JPG" height="180px">
 </p>
